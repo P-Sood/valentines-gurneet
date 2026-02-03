@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Really!? ",
+    "You fattie!",
+    "Why are you like this?",
+    "You are mean!",
+    "Last chance Ginu -.- ",
+    "Ju wanting to fight????? ",
+    "Sephora shopping spree? 👀 ",
+    "Dovetail?",
+    "C'mon I'll admit you are more jacked and athletic than me ",
+    "Ok you win I'll watch love island with u 😔",
 ];
 
 let messageIndex = 0;
